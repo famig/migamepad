@@ -1,0 +1,6 @@
+file_format: "1"
+id: migamepad
+name: MIGamePad
+type: shield
+url: 
+requires: [pro_micro]
