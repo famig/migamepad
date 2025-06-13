@@ -8,7 +8,7 @@
         layer_0 {
             label = "Base";
             bindings = <
-&kp KP_NUMBER_1  &kp LC(KP_NUMBER_2)  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0  &kp A  &kp B  &kp C  &kp D  &kp E  &kp F  &kp G  &kp H
+&kp Q  &kp L  &kp R  &kp P  &kp UP_ARROW  &kp X  &kp LEFT  &kp RIGHT  &kp Y  &kp A  &kp DOWN  &kp B  &kp C  &kp S  &kp F1  &kp F2  &kp F3  &kp F4
             >;
         };
     };
